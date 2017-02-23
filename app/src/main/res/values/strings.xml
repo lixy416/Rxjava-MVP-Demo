@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rxjava-MVP-Demo</string>
+    <string name="action_settings">设置</string>
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_other">其他</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+    <string name="load_fail">加载数据失败!</string>
+    <string name="transition_news_img">transition_news_img</string>
+    <string name="image_hit">一次只加载20条，查看更多内容请刷新哦。</string>
+</resources>
